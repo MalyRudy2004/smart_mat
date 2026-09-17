@@ -1,0 +1,10 @@
+datasheety/
+zakupy/
+*.xlsx
+*.txt
+**/mata-backups/
+*.zip
+fp-info-cache
+*.kicad_prl
+*-save.kicad_pcb
+*-save.kicad_sch

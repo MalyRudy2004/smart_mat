@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "fefe3374-dfb1-4cd8-9278-83eb3a36360c")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 93.98 27.94)
+		(size 26.67 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5835623e-cc6b-432d-a296-bfb03084e6e7")
+		(property "Sheetname" "lasers"
+			(at 93.98 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "lasers.kicad_sch"
+			(at 93.98 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mata"
+				(path "/fefe3374-dfb1-4cd8-9278-83eb3a36360c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 52.07)
+		(size 30.48 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a43fc540-76bf-4570-a531-3cd6d2a0797d")
+		(property "Sheetname" "diodes"
+			(at 90.17 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "diodes.kicad_sch"
+			(at 90.17 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mata"
+				(path "/fefe3374-dfb1-4cd8-9278-83eb3a36360c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 96.52)
+		(size 29.21 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b34971ef-7870-48ee-bb58-568d8fa47a21")
+		(property "Sheetname" "power"
+			(at 31.75 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 31.75 123.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mata"
+				(path "/fefe3374-dfb1-4cd8-9278-83eb3a36360c"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 25.4)
+		(size 58.42 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fb65a29b-bf64-4610-96e7-1a58c7e64d99")
+		(property "Sheetname" "MCU"
+			(at 19.05 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 19.05 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mata"
+				(path "/fefe3374-dfb1-4cd8-9278-83eb3a36360c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
